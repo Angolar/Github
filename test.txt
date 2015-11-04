@@ -1,1 +1,2 @@
 使用Github远程仓库测试，文件存储在Github上。
+在分支issue-1上修改bug，测试stash功能。
